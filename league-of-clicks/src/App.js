@@ -17,6 +17,10 @@ class App extends Component {
   componentDidMount() {
     this.setState({ legends: this.randomizeLegends(this.state.legends) });
   };
+  // **Notes for me**
+  // Ideas on how to make more presentable: Think about turning this into TFT-like clone. User is given random choices from League of Legends api. 
+  // User can spend gold they get every round to buy a unit, tier rank up system more simple like 1 star= 1 rank. Units have hp and atk. They can die 
+  // and be discarded. Pit up against enemy "ai".
 
   // ------------------Handle Click Stuff------------------------------------------------------------------------
 
