@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"name": "Ahri",
+		"image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
+		"clicked": false
+	},
+	{
+		"id": 2,
+		"name": "Akali",
+		"image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg",
+		"clicked": false
+	},
+	{
+		"id": 3,
+		"name": "Jhin",
+		"image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_0.jpg",
+		"clicked": false
+	},
+	{
+		"id": 4,
+		"name": "Morgana",
+		"image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_6.jpg",
+		"clicked": false
+	},
+	{
+		"id": 5,
+		"name": "Pyke",
+		"image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_0.jpg",
+		"clicked": false
+	},
+	{
+		"id": 6,
+		"name": "Yasuo",
+		"image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg",
+		"clicked": false
+	},
+	{
+		"id": 7,
+		"name": "Ezreal",
+		"image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_0.jpg",
+		"clicked": false
+	},
+	{
+		"id": 8,
+		"name": "Bard",
+		"image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg",
+		"clicked": false
+	},
+	{
+		"id": 9,
+		"name": "Kai'Sa",
+		"image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg",
+		"clicked": false
+	},
+	{
+		"id": 10,
+		"name": "Ornn",
+		"image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg",
+		"clicked": false
+	},
+	{
+		"id": 11,
+		"name": "Kindred",
+		"image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_0.jpg",
+		"clicked": false
+	},
+	{
+		"id": 12,
+		"name": "Irelia",
+		"image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_6.jpg",
+		"clicked": false
+	}
+]

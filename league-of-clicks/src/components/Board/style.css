@@ -1,0 +1,7 @@
+.board {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 25px 0;
+    width: 100%;
+  }
